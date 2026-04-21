@@ -1,2 +1,2 @@
-# dumilah-launching-slides
-Repositori untuk PDF salindia peluncuran dan pengenalan DUMILAH (23 April 2026) di Fakultas Ilmu Budaya, Universitas Udayana
+# Keterangan
+Repositori untuk PDF salindia peluncuran dan pengenalan [DUMILAH](https://fib.unud.ac.id/pages/digital-humanities) (23 April 2026) di Fakultas Ilmu Budaya (FIB), Universitas Udayana. Peluncuran ini juga mengenalkan model ekosistem riset yang digunakan DUMILAH, yaitu [Zenodo](https://zenodo.org/), untuk diseminasi portofolio penelitian Humaniora Digital sivitas akademika FIB Udayana melalui [Zenodo Community DUMILAH](https://zenodo.org/communities/dumilah-fib-unud/records?q=&l=list&p=1&s=10&sort=newest).
